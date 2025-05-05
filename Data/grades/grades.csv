@@ -1,0 +1,326 @@
+season_id,season_text,grade_id,grade_name,grade_short_name,sport_id,gender_id,agegroup_id,association_name,rounds
+11,2020,73934,Eerste Klasse,EK,,,,Koninklijke Nederlandse Cricket Bond,
+11,2020,71375,Hoofdklasse,HK,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|7|8|9
+11,2020,71381,Live Score Test,LST,,,,Koninklijke Nederlandse Cricket Bond,1
+11,2020,71374,Topklasse,TK,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|7|8|9
+11,2020,71378,Topklasse Twenty20,TK T20,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|QF|SF|GF
+11,2020,71399,Training Grade,TG,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|7
+11,2020,73401,U15 Finales,,,,,Koninklijke Nederlandse Cricket Bond,1|SF|GF
+11,2020,73417,U17 Finales,U17 Finales,,,,Koninklijke Nederlandse Cricket Bond,1|GF
+11,2020,73130,Women's T20 Day,,,,,Koninklijke Nederlandse Cricket Bond,1|2
+12,2021,76370,Cricket Fights Cancer,CFC 2021,,,,Koninklijke Nederlandse Cricket Bond,1
+12,2021,73941,Derde Klasse,3e Klasse,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|7|8|9
+12,2021,73934,Eerste Klasse,EK,,,,Koninklijke Nederlandse Cricket Bond,2|3|4|5|6|7|8|9|10
+12,2021,76369,Flamingo Junioren Toernooi,FJT,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|7|8
+12,2021,71375,Hoofdklasse,HK,,,,Koninklijke Nederlandse Cricket Bond,2|3|4|5|6|7|8|9|10|11
+12,2021,76517,KNCB Practice matches,KNCB PM,,,,Koninklijke Nederlandse Cricket Bond,1|2
+12,2021,73945,Lagere Klassen Twenty20,LK T20,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|SF|GF
+12,2021,71381,Live Score Test,LST,,,,Koninklijke Nederlandse Cricket Bond,1|2
+12,2021,76036,Men's Pro Series,Men's Pro Series,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|6|8|9|10|11|12
+12,2021,76594,Netherlands Men's A International Series,Nehterlands A,,,,Koninklijke Nederlandse Cricket Bond,1|2|3
+12,2021,76104,Netherlands Women's Intersquad,Intersquad,,,,Koninklijke Nederlandse Cricket Bond,1|2
+12,2021,75878,Netherlands vs Ireland Super League Series,,,,,Koninklijke Nederlandse Cricket Bond,1|2|3
+12,2021,75716,Netherlands vs Scotland ODI Series,ODI,,,,Koninklijke Nederlandse Cricket Bond,1|2
+12,2021,79484,Non KNCB Matches,NKM,,,,Koninklijke Nederlandse Cricket Bond,
+12,2021,74672,Pre-season,Pre-S,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4
+12,2021,76801,Qui Vive Premier League,QPL,,,,Koninklijke Nederlandse Cricket Bond,SF|GF
+12,2021,71374,Topklasse,TK,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|SF|PF|GF
+12,2021,71378,Topklasse Twenty20,TK T20,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|QF|SF|GF
+12,2021,71399,Training Grade,TG,,,,Koninklijke Nederlandse Cricket Bond,1
+12,2021,73940,Tweede Klasse,2e Klasse,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|7|8|9
+12,2021,75916,U11 HB,U11 HB,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|SF|PF|GF
+12,2021,75917,U11 HB WO,U11 HB WO,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5
+12,2021,75915,U11 ZB,U11 ZB,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6
+12,2021,75914,U13,U13,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|7|SF|GF
+12,2021,75913,U15,U15,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|7|SF|GF
+12,2021,75988,U15 Extra,U15 Extra,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|7
+12,2021,73401,U15 Finales,,,,,Koninklijke Nederlandse Cricket Bond,
+12,2021,75943,U17,U17,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|SF|GF
+12,2021,73417,U17 Finales,U17 Finales,,,,Koninklijke Nederlandse Cricket Bond,
+12,2021,73942,Vierde Klasse,4e Klasse,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|7|8|9
+12,2021,74760,Vrouwen Hoofdklasse,VHK,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|7|8|9|10
+12,2021,75993,Vrouwen T20,VT20,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|7|8|9|10|11|12
+12,2021,73130,Women's T20 Day,,,,,Koninklijke Nederlandse Cricket Bond,
+12,2021,73943,Zami,Zami,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|7|8|9
+12,2021,73944,Zomi,Zomi,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|7
+13,2022,80688,2e Klasse Finales,2e Klasse Finales,,,,Koninklijke Nederlandse Cricket Bond,EF|QF|PF|GF
+13,2022,80689,3e Klasse Finales,3e Klasse Finales,,,,Koninklijke Nederlandse Cricket Bond,EF|QF|PF|GF
+13,2022,77357,4e Klasse,4e Klasse,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|7|8|9|10|11|12|13
+13,2022,80659,4e Klasse Play Off,4e Klasse Play Off,,,,Koninklijke Nederlandse Cricket Bond,1
+13,2022,79816,Bedrijfscompetitie,BCOMP,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18
+13,2022,80882,Beslissingswedstrijd Topklasse - Hoofdklasse,BTKHK,,,,Koninklijke Nederlandse Cricket Bond,GF
+13,2022,76370,Cricket Fights Cancer,CFC 2021,,,,Koninklijke Nederlandse Cricket Bond,
+13,2022,73941,Derde Klasse,3e Klasse,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|7|8|9|10|11|12|13|14
+13,2022,80248,Dutch Lions/Lionesses International Series,,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4
+13,2022,73934,Eerste Klasse,EK,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|EF|QF|PF|GF
+13,2022,80249,Euro U17 Quadrangular Series 2022,,,,,Koninklijke Nederlandse Cricket Bond,1|2|3
+13,2022,79936,Flamingo Festival,FF,,,,Koninklijke Nederlandse Cricket Bond,
+13,2022,76369,Flamingo Junioren Toernooi,FJT,,,,Koninklijke Nederlandse Cricket Bond,
+13,2022,80075,Flamingo Women,FLA-W,,,,Koninklijke Nederlandse Cricket Bond,
+13,2022,80913,HTCECA- ACA T-15 LEATHER BALL TOURNAMENT,HTCECA1,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|QF|SF|GF
+13,2022,80481,Hilton Series,,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6
+13,2022,71375,Hoofdklasse,HK,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|7|8|9|10|11|12|13|14
+13,2022,80349,Hoofdklasse Play Off,HKPO,,,,Koninklijke Nederlandse Cricket Bond,1|2|4|5|7|8|9|11|12|14|15|16|17|EF|QF|PF|GF
+13,2022,79968,KNCB Mini Pro Series,KMPS,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|7
+13,2022,76517,KNCB Practice matches,KNCB PM,,,,Koninklijke Nederlandse Cricket Bond,1|2
+13,2022,79969,KNCB Young Pro Series,KYPS,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|7|8|9
+13,2022,73945,Lagere Klassen Twenty20,LK T20,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|7|8|9|10
+13,2022,71381,Live Score Test,LST,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|7
+13,2022,76036,Men's Pro Series,Men's Pro Series,,,,Koninklijke Nederlandse Cricket Bond,
+13,2022,80566,Minor County Cricket Festival 2024,MCCF 24,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5
+13,2022,76594,Netherlands Men's A International Series,Nehterlands A,,,,Koninklijke Nederlandse Cricket Bond,
+13,2022,80719,Netherlands U17 vs Wiltshire,,,,,Koninklijke Nederlandse Cricket Bond,1|2
+13,2022,80565,Netherlands U18 v Ireland U17,,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5
+13,2022,79970,Netherlands Women vs Namibia Women,NEDNAMW,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6
+13,2022,76104,Netherlands Women's Intersquad,Intersquad,,,,Koninklijke Nederlandse Cricket Bond,
+13,2022,79940,Netherlands vs England Super League Series,,,,,Koninklijke Nederlandse Cricket Bond,1|2|3
+13,2022,80718,Netherlands vs FairBreak Women's T20 Series,,,,,Koninklijke Nederlandse Cricket Bond,1|2|3
+13,2022,80538,Netherlands vs Ireland,,,,,Koninklijke Nederlandse Cricket Bond,
+13,2022,75878,Netherlands vs Ireland Super League Series,,,,,Koninklijke Nederlandse Cricket Bond,
+13,2022,80714,Netherlands vs Ireland Women's ODI Series,NED vs IRE,,,,Koninklijke Nederlandse Cricket Bond,1|2|3
+13,2022,80575,Netherlands vs New Zealand T20I Series,NVNZ,,,,Koninklijke Nederlandse Cricket Bond,1
+13,2022,79941,Netherlands vs Pakistan Super League Series,,,,,Koninklijke Nederlandse Cricket Bond,1|2|3
+13,2022,75716,Netherlands vs Scotland ODI Series,ODI,,,,Koninklijke Nederlandse Cricket Bond,
+13,2022,79939,Netherlands vs West Indies Super League Series,,,,,Koninklijke Nederlandse Cricket Bond,1|2|3
+13,2022,79484,Non KNCB Matches,NKM,,,,Koninklijke Nederlandse Cricket Bond,1
+13,2022,80636,Overgangsklasse Finals,OV Klasse Finals,,,,Koninklijke Nederlandse Cricket Bond,QF|SF|GF
+13,2022,74672,Pre-season,Pre-S,,,,Koninklijke Nederlandse Cricket Bond,1|2|3
+13,2022,76801,Qui Vive Premier League,QPL,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|EF|QF|PF|GF
+13,2022,80033,Tachyon Security Dutch Women's Super League,DWSL,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5
+13,2022,71374,Topklasse,TK,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|7|8|9|10
+13,2022,80120,Topklasse Play Off,TKPO,,,,Koninklijke Nederlandse Cricket Bond,1|2|4|5|6|7|9|10|11|12|13|14|15|16|EF|QF|PF|GF
+13,2022,71378,Topklasse Twenty20,TK T20,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|QF|SF|GF
+13,2022,71399,Training Grade,TG,,,,Koninklijke Nederlandse Cricket Bond,1
+13,2022,73940,Tweede Klasse,2e Klasse,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|7|8|9|10|11|12|13|14
+13,2022,75916,U11 HB,U11 HB,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|7|8|9|10|11|SF|GF
+13,2022,75917,U11 HB WO,U11 HB WO,,,,Koninklijke Nederlandse Cricket Bond,
+13,2022,75915,U11 ZB,U11 ZB,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|7|8|9|10|SF|GF
+13,2022,75914,U13,U13,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|7|8|9|10|11|12|13|SF|GF
+13,2022,75913,U15,U15,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|7|8|9|10|SF|GF
+13,2022,75988,U15 Extra,U15 Extra,,,,Koninklijke Nederlandse Cricket Bond,
+13,2022,73401,U15 Finales,,,,,Koninklijke Nederlandse Cricket Bond,
+13,2022,75943,U17,U17,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|7|8|9|10|11|12|13|SF|GF
+13,2022,73417,U17 Finales,U17 Finales,,,,Koninklijke Nederlandse Cricket Bond,
+13,2022,73942,Vierde Klasse,4e Klasse,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|7|8|9|10|11|12|13|14
+13,2022,77363,Vrouwen Eerste Klasse,VEK,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6
+13,2022,74760,Vrouwen Hoofdklasse,VHK,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|GF
+13,2022,75993,Vrouwen T20,VT20,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|7|8|9
+13,2022,73130,Women's T20 Day,,,,,Koninklijke Nederlandse Cricket Bond,
+13,2022,73943,Zami,Zami,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|7|8|9|10|11|12|13|14
+13,2022,73944,Zomi,Zomi,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|7|8|9|10|11|12|13
+15,2023,84350,2023 ICC U19 Men's WCQ,2023ICCU19WCQ,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5
+15,2023,84888,2023 U11 Extra wedstrijden,2023U11XTRA,,,,Koninklijke Nederlandse Cricket Bond,1
+15,2023,84887,2023 U13 Extra wedstrijden,2023U13XTRA,,,,Koninklijke Nederlandse Cricket Bond,1|2
+15,2023,84886,2023 U15 Extra wedstrijden,2023U15XTRA,,,,Koninklijke Nederlandse Cricket Bond,1
+15,2023,84889,2023 U17 Extra wedstrijden,2023U17XTRA,,,,Koninklijke Nederlandse Cricket Bond,1
+15,2023,80688,2e Klasse Finales,2e Klasse Finales,,,,Koninklijke Nederlandse Cricket Bond,
+15,2023,80689,3e Klasse Finales,3e Klasse Finales,,,,Koninklijke Nederlandse Cricket Bond,
+15,2023,77357,4e Klasse,4e Klasse,,,,Koninklijke Nederlandse Cricket Bond,
+15,2023,80659,4e Klasse Play Off,4e Klasse Play Off,,,,Koninklijke Nederlandse Cricket Bond,
+15,2023,79816,Bedrijfscompetitie,BCOMP,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|7|8|9|10|11|12|13|15|17|18|19
+15,2023,80882,Beslissingswedstrijd Topklasse - Hoofdklasse,BTKHK,,,,Koninklijke Nederlandse Cricket Bond,
+15,2023,76370,Cricket Fights Cancer,CFC 2021,,,,Koninklijke Nederlandse Cricket Bond,
+15,2023,73941,Derde Klasse,3e Klasse,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|7|8|9|10|11|12|13|14
+15,2023,80248,Dutch Lions/Lionesses International Series,,,,,Koninklijke Nederlandse Cricket Bond,
+15,2023,82135,Eerst Klasse Twenty20,EK T20,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|SF|GF
+15,2023,73934,Eerste Klasse,EK,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|EF|QF|PF|GF
+15,2023,82136,Eerste Play Off,EKPO,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|EF|QF|GF
+15,2023,80249,Euro U17 Quadrangular Series 2022,,,,,Koninklijke Nederlandse Cricket Bond,
+15,2023,83848,Euro U18 Quadrangular Series 2023,U18 Quad Series 2023,,,,Koninklijke Nederlandse Cricket Bond,1|2|3
+15,2023,79936,Flamingo Festival,FF,,,,Koninklijke Nederlandse Cricket Bond,
+15,2023,76369,Flamingo Junioren Toernooi,FJT,,,,Koninklijke Nederlandse Cricket Bond,
+15,2023,80075,Flamingo Women,FLA-W,,,,Koninklijke Nederlandse Cricket Bond,1
+15,2023,80913,HTCECA- ACA T-15 LEATHER BALL TOURNAMENT,HTCECA1,,,,Koninklijke Nederlandse Cricket Bond,
+15,2023,84960,Hermes-DVS T10 Toernooi,HDVST10,,,,Koninklijke Nederlandse Cricket Bond,1|2|3
+15,2023,80481,Hilton Series,,,,,Koninklijke Nederlandse Cricket Bond,
+15,2023,71375,Hoofdklasse,HK,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|EF|QF|PF|GF
+15,2023,80349,Hoofdklasse Play Off,HKPO,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6
+15,2023,82134,Hoofdklasse Twenty20,HK T20,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|SF|GF
+15,2023,79968,KNCB Mini Pro Series,KMPS,,,,Koninklijke Nederlandse Cricket Bond,4|5|6|7|8|9
+15,2023,76517,KNCB Practice matches,KNCB PM,,,,Koninklijke Nederlandse Cricket Bond,1|2|3
+15,2023,79969,KNCB Young Pro Series,KYPS,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|7|8
+15,2023,73945,Lagere Klassen Twenty20,LK T20,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|QF|SF|GF
+15,2023,71381,Live Score Test,LST,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|7
+15,2023,76036,Men's Pro Series,Men's Pro Series,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5
+15,2023,80566,Minor County Cricket Festival 2024,MCCF 24,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|7|8|9|10
+15,2023,76594,Netherlands Men's A International Series,Nehterlands A,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|7|8|9|10|11|12|13|14
+15,2023,80719,Netherlands U17 vs Wiltshire,,,,,Koninklijke Nederlandse Cricket Bond,
+15,2023,80565,Netherlands U18 v Ireland U17,,,,,Koninklijke Nederlandse Cricket Bond,
+15,2023,79970,Netherlands Women vs Namibia Women,NEDNAMW,,,,Koninklijke Nederlandse Cricket Bond,
+15,2023,76104,Netherlands Women's Intersquad,Intersquad,,,,Koninklijke Nederlandse Cricket Bond,
+15,2023,79940,Netherlands vs England Super League Series,,,,,Koninklijke Nederlandse Cricket Bond,
+15,2023,80718,Netherlands vs FairBreak Women's T20 Series,,,,,Koninklijke Nederlandse Cricket Bond,
+15,2023,75878,Netherlands vs Ireland Super League Series,,,,,Koninklijke Nederlandse Cricket Bond,
+15,2023,80714,Netherlands vs Ireland Women's ODI Series,NED vs IRE,,,,Koninklijke Nederlandse Cricket Bond,
+15,2023,83846,Netherlands vs Ireland Women's T20I Series,NED vs IRE,,,,Koninklijke Nederlandse Cricket Bond,1|2|3
+15,2023,84822,Netherlands vs Jersey Women's T10I Series,,,,,Koninklijke Nederlandse Cricket Bond,1|2|3
+15,2023,83847,Netherlands vs Jersey Women's T20I Series,NED vs JER,,,,Koninklijke Nederlandse Cricket Bond,1|2|3
+15,2023,80575,Netherlands vs New Zealand T20I Series,NVNZ,,,,Koninklijke Nederlandse Cricket Bond,
+15,2023,79941,Netherlands vs Pakistan Super League Series,,,,,Koninklijke Nederlandse Cricket Bond,
+15,2023,75716,Netherlands vs Scotland ODI Series,ODI,,,,Koninklijke Nederlandse Cricket Bond,
+15,2023,83844,Netherlands vs Thailand Women's ODI Series,NED vs THA,,,,Koninklijke Nederlandse Cricket Bond,1|2|3
+15,2023,79939,Netherlands vs West Indies Super League Series,,,,,Koninklijke Nederlandse Cricket Bond,
+15,2023,79484,Non KNCB Matches,NKM,,,,Koninklijke Nederlandse Cricket Bond,1
+15,2023,80636,Overgangsklasse Finals,OV Klasse Finals,,,,Koninklijke Nederlandse Cricket Bond,
+15,2023,74672,Pre-season,Pre-S,,,,Koninklijke Nederlandse Cricket Bond,1
+15,2023,76801,Qui Vive Premier League,QPL,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|7|EF|QF|GF
+15,2023,80033,Tachyon Security Dutch Women's Super League,DWSL,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|7|8|9|10|11|12|GF
+15,2023,71374,Topklasse,TK,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|EF|QF|PF|GF
+15,2023,80120,Topklasse Play Off,TKPO,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|EF|QF|GF
+15,2023,71378,Topklasse Twenty20,TK T20,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|SF|GF
+15,2023,71399,Training Grade,TG,,,,Koninklijke Nederlandse Cricket Bond,1
+15,2023,73940,Tweede Klasse,2e Klasse,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|7|8|9|10|11|12|13|14
+15,2023,75916,U11 HB,U11 HB,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|7|8|9|SF|GF
+15,2023,75917,U11 HB WO,U11 HB WO,,,,Koninklijke Nederlandse Cricket Bond,
+15,2023,75915,U11 ZB,U11 ZB,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|7|8|9|10
+15,2023,75914,U13,U13,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|7|8|9|10|11|SF|GF
+15,2023,75913,U15,U15,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|7|8|9|10|SF|GF
+15,2023,75988,U15 Extra,U15 Extra,,,,Koninklijke Nederlandse Cricket Bond,
+15,2023,73401,U15 Finales,,,,,Koninklijke Nederlandse Cricket Bond,
+15,2023,83849,U16 Nertherlands vs U16 Denmark,U16 NED v DEN,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4
+15,2023,75943,U17,U17,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|7|8|9|10|SF|GF
+15,2023,73417,U17 Finales,U17 Finales,,,,Koninklijke Nederlandse Cricket Bond,
+15,2023,73942,Vierde Klasse,4e Klasse,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18
+15,2023,77363,Vrouwen Eerste Klasse,VEK,,,,Koninklijke Nederlandse Cricket Bond,
+15,2023,82351,Vrouwen Hoofdklasse,VHK,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6
+15,2023,74760,Vrouwen Hoofdklasse,VHK,,,,Koninklijke Nederlandse Cricket Bond,
+15,2023,84859,Vrouwen Slotdag T10,VST10,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4
+15,2023,75993,Vrouwen T20,VT20,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|7|8|9|QF|GF
+15,2023,82349,Vrouwen Topklasse,VTK,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|GF
+15,2023,73130,Women's T20 Day,,,,,Koninklijke Nederlandse Cricket Bond,
+15,2023,83845,Women's T20I Tri-series,T20I Tri-series,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6
+15,2023,73943,Zami,Zami,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17
+15,2023,73944,Zomi,Zomi,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|7|8|9|10|11|12|13|14|15
+17,2024,80688,2e Klasse Finales,2e Klasse Finales,,,,Koninklijke Nederlandse Cricket Bond,
+17,2024,80689,3e Klasse Finales,3e Klasse Finales,,,,Koninklijke Nederlandse Cricket Bond,
+17,2024,77357,4e Klasse,4e Klasse,,,,Koninklijke Nederlandse Cricket Bond,
+17,2024,80659,4e Klasse Play Off,4e Klasse Play Off,,,,Koninklijke Nederlandse Cricket Bond,
+17,2024,79816,Bedrijfscompetitie,BCOMP,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16
+17,2024,80882,Beslissingswedstrijd Topklasse - Hoofdklasse,BTKHK,,,,Koninklijke Nederlandse Cricket Bond,
+17,2024,76370,Cricket Fights Cancer,CFC 2021,,,,Koninklijke Nederlandse Cricket Bond,
+17,2024,73941,Derde Klasse,3e Klasse,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|7|8|9|10|11|12|13|14
+17,2024,80248,Dutch Lions/Lionesses International Series,,,,,Koninklijke Nederlandse Cricket Bond,1|2|3
+17,2024,82135,Eerst Klasse Twenty20,EK T20,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|SF|GF
+17,2024,73934,Eerste Klasse,EK,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|EF|QF|PF|GF
+17,2024,82136,Eerste Play Off,EKPO,,,,Koninklijke Nederlandse Cricket Bond,
+17,2024,80249,Euro U17 Quadrangular Series 2022,,,,,Koninklijke Nederlandse Cricket Bond,
+17,2024,83848,Euro U18 Quadrangular Series 2023,U18 Quad Series 2023,,,,Koninklijke Nederlandse Cricket Bond,
+17,2024,79936,Flamingo Festival,FF,,,,Koninklijke Nederlandse Cricket Bond,
+17,2024,76369,Flamingo Junioren Toernooi,FJT,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|SF|GF1|GF2
+17,2024,80075,Flamingo Women,FLA-W,,,,Koninklijke Nederlandse Cricket Bond,
+17,2024,89359,HCLTech Women's ODI Tri Series,HCLTech W - ODI,,,,Koninklijke Nederlandse Cricket Bond,1|2
+17,2024,89360,HCLTech Women's T20I Tri Series,HCLTech W - T20I,,,,Koninklijke Nederlandse Cricket Bond,1
+17,2024,80913,HTCECA- ACA T-15 LEATHER BALL TOURNAMENT,HTCECA1,,,,Koninklijke Nederlandse Cricket Bond,
+17,2024,84960,Hermes-DVS T10 Toernooi,HDVST10,,,,Koninklijke Nederlandse Cricket Bond,
+17,2024,80481,Hilton Series,,,,,Koninklijke Nederlandse Cricket Bond,
+17,2024,71375,Hoofdklasse,HK,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|EF|QF|PF|GF
+17,2024,80349,Hoofdklasse Play Off,HKPO,,,,Koninklijke Nederlandse Cricket Bond,
+17,2024,82134,Hoofdklasse Twenty20,HK T20,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|SF|GF
+17,2024,89595,ICC WCL-2 Tri-series,ICC WCL-2 Tri-series,,,,Koninklijke Nederlandse Cricket Bond,1|2
+17,2024,79968,KNCB Mini Pro Series,KMPS,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|7|8|9|10|11|12
+17,2024,76517,KNCB Practice matches,KNCB PM,,,,Koninklijke Nederlandse Cricket Bond,
+17,2024,79969,KNCB Young Pro Series,KYPS,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|7
+17,2024,73945,Lagere Klassen Twenty20,LK T20,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|7|8|9|10|QF|SF|GF
+17,2024,71381,Live Score Test,LST,,,,Koninklijke Nederlandse Cricket Bond,1|QF|SF|GF
+17,2024,89472,Malvern College Cricket Festival 2024,Malvern 2024,,,,Koninklijke Nederlandse Cricket Bond,1|2|3
+17,2024,88846,Men's Emerging Pro Series,Men's Pro Series,,,,Koninklijke Nederlandse Cricket Bond,1|2
+17,2024,76036,Men's Pro Series,Men's Pro Series,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|7|8
+17,2024,80566,Minor County Cricket Festival 2024,MCCF 24,,,,Koninklijke Nederlandse Cricket Bond,1|2
+17,2024,88389,NORDEK Tri-Series,NORDEK Tri-Series,,,,Koninklijke Nederlandse Cricket Bond,1|2
+17,2024,89387,NRR,NRR,,,,Koninklijke Nederlandse Cricket Bond,1
+17,2024,76594,Netherlands Men's A International Series,Nehterlands A,,,,Koninklijke Nederlandse Cricket Bond,1|2
+17,2024,80719,Netherlands U17 vs Wiltshire,,,,,Koninklijke Nederlandse Cricket Bond,
+17,2024,80565,Netherlands U18 v Ireland U17,,,,,Koninklijke Nederlandse Cricket Bond,
+17,2024,79970,Netherlands Women vs Namibia Women,NEDNAMW,,,,Koninklijke Nederlandse Cricket Bond,
+17,2024,76104,Netherlands Women's Intersquad,Intersquad,,,,Koninklijke Nederlandse Cricket Bond,
+17,2024,79940,Netherlands vs England Super League Series,,,,,Koninklijke Nederlandse Cricket Bond,
+17,2024,80718,Netherlands vs FairBreak Women's T20 Series,,,,,Koninklijke Nederlandse Cricket Bond,
+"17,2024,88782,""Netherlands vs Hong Kong, China Women T20I Series"",T20I NED vs HK-C (W),,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4"
+17,2024,75878,Netherlands vs Ireland Super League Series,,,,,Koninklijke Nederlandse Cricket Bond,
+17,2024,80714,Netherlands vs Ireland Women's ODI Series,NED vs IRE,,,,Koninklijke Nederlandse Cricket Bond,
+17,2024,83846,Netherlands vs Ireland Women's T20I Series,NED vs IRE,,,,Koninklijke Nederlandse Cricket Bond,
+17,2024,88781,Netherlands vs Italy Women's T20I Series,T20I NED vs ITA (W),,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4
+17,2024,84822,Netherlands vs Jersey Women's T10I Series,,,,,Koninklijke Nederlandse Cricket Bond,
+17,2024,83847,Netherlands vs Jersey Women's T20I Series,NED vs JER,,,,Koninklijke Nederlandse Cricket Bond,
+17,2024,80575,Netherlands vs New Zealand T20I Series,NVNZ,,,,Koninklijke Nederlandse Cricket Bond,
+17,2024,79941,Netherlands vs Pakistan Super League Series,,,,,Koninklijke Nederlandse Cricket Bond,
+17,2024,75716,Netherlands vs Scotland ODI Series,ODI,,,,Koninklijke Nederlandse Cricket Bond,
+17,2024,83844,Netherlands vs Thailand Women's ODI Series,NED vs THA,,,,Koninklijke Nederlandse Cricket Bond,
+17,2024,79939,Netherlands vs West Indies Super League Series,,,,,Koninklijke Nederlandse Cricket Bond,
+17,2024,79484,Non KNCB Matches,NKM,,,,Koninklijke Nederlandse Cricket Bond,1
+17,2024,80636,Overgangsklasse Finals,OV Klasse Finals,,,,Koninklijke Nederlandse Cricket Bond,
+17,2024,90057,Pakistan Ambassador Cup,PAC,,,,Koninklijke Nederlandse Cricket Bond,1
+17,2024,74672,Pre-season,Pre-S,,,,Koninklijke Nederlandse Cricket Bond,1|2|3
+17,2024,76801,Qui Vive Premier League,QPL,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|7|8|9|10|11|EF|QF|GF1
+17,2024,89596,T20I Tri-series,T20I Tri-series,,,,Koninklijke Nederlandse Cricket Bond,1|2
+17,2024,80033,Tachyon Security Dutch Women's Super League,DWSL,,,,Koninklijke Nederlandse Cricket Bond,1|2
+17,2024,71374,Topklasse,TK,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|EF|QF|PF|GF
+17,2024,80120,Topklasse Play Off,TKPO,,,,Koninklijke Nederlandse Cricket Bond,
+17,2024,71378,Topklasse Twenty20,TK T20,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|SF|GF
+17,2024,71399,Training Grade,TG,,,,Koninklijke Nederlandse Cricket Bond,1
+17,2024,73940,Tweede Klasse,2e Klasse,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|7|8|9|10|11|12|13|14
+17,2024,75916,U11 HB,U11 HB,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|7|8|9|10|11|12|13|SF|GF
+17,2024,75917,U11 HB WO,U11 HB WO,,,,Koninklijke Nederlandse Cricket Bond,
+17,2024,90325,U11 Indoor,U11-Indoor,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18
+17,2024,75915,U11 ZB,U11 ZB,,,,Koninklijke Nederlandse Cricket Bond,
+17,2024,75914,U13,U13,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|7|8|9|10|11|12|SF|GF
+17,2024,90326,U13 Indoor,U13-Indoor,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|7|8|9|10|11|12|13|14|15
+17,2024,75913,U15,U15,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|7|8|9|10|11|12|13|GF
+17,2024,75988,U15 Extra,U15 Extra,,,,Koninklijke Nederlandse Cricket Bond,
+17,2024,73401,U15 Finales,,,,,Koninklijke Nederlandse Cricket Bond,
+17,2024,83849,U16 Nertherlands vs U16 Denmark,U16 NED v DEN,,,,Koninklijke Nederlandse Cricket Bond,
+17,2024,75943,U17,U17,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|7|8|9|10|11|GF
+17,2024,73417,U17 Finales,U17 Finales,,,,Koninklijke Nederlandse Cricket Bond,
+17,2024,90327,U9 Indoor,U9-Indoor,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18
+17,2024,88968,VRA Friendlies,VRA-F,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4
+17,2024,73942,Vierde Klasse,4e Klasse,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|7|8|9|10|11|12|13|14
+17,2024,82351,Vrouwen Hoofdklasse,VHK,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|GF
+17,2024,74760,Vrouwen Hoofdklasse,VHK,,,,Koninklijke Nederlandse Cricket Bond,
+17,2024,84859,Vrouwen Slotdag T10,VST10,,,,Koninklijke Nederlandse Cricket Bond,1|2|3
+17,2024,75993,Vrouwen T20,VT20,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|7|8|9|10|11|GF
+17,2024,82349,Vrouwen Topklasse,VTK,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|GF
+17,2024,89663,Wanderers CC Friendlies,WAN-F,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5
+17,2024,73130,Women's T20 Day,,,,,Koninklijke Nederlandse Cricket Bond,
+17,2024,83845,Women's T20I Tri-series,T20I Tri-series,,,,Koninklijke Nederlandse Cricket Bond,
+17,2024,88310,Youth Qui Vive Premier league U13,YQPL U13,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|QF|GF
+17,2024,73943,Zami,Zami,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19
+17,2024,73944,Zomi,Zomi,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16
+19,2025,73941,Derde Klasse,3e Klasse,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|7|8|9|10|11|12|13|14
+19,2025,82135,Eerst Klasse Twenty20,EK T20,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|7
+19,2025,73934,Eerste Klasse,EK,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18
+19,2025,76369,Flamingo Junioren Toernooi,FJT,,,,Koninklijke Nederlandse Cricket Bond,
+19,2025,89359,HCLTech Women's ODI Tri Series,HCLTech W - ODI,,,,Koninklijke Nederlandse Cricket Bond,
+19,2025,89360,HCLTech Women's T20I Tri Series,HCLTech W - T20I,,,,Koninklijke Nederlandse Cricket Bond,
+19,2025,71375,Hoofdklasse,HK,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18
+19,2025,82134,Hoofdklasse Twenty20,HK T20,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|7
+19,2025,79969,KNCB Young Pro Series,KYPS,,,,Koninklijke Nederlandse Cricket Bond,1|2
+19,2025,88846,Men's Emerging Pro Series,Men's Pro Series,,,,Koninklijke Nederlandse Cricket Bond,
+19,2025,76036,Men's Pro Series,Men's Pro Series,,,,Koninklijke Nederlandse Cricket Bond,
+"19,2025,88782,""Netherlands vs Hong Kong, China Women T20I Series"",T20I NED vs HK-C (W),,,,Koninklijke Nederlandse Cricket Bond,"
+19,2025,88781,Netherlands vs Italy Women's T20I Series,T20I NED vs ITA (W),,,,Koninklijke Nederlandse Cricket Bond,
+19,2025,79484,Non KNCB Matches,NKM,,,,Koninklijke Nederlandse Cricket Bond,
+19,2025,90057,Pakistan Ambassador Cup,PAC,,,,Koninklijke Nederlandse Cricket Bond,
+19,2025,74672,Pre-season,Pre-S,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|7|8|9|10
+19,2025,76801,Qui Vive Premier League,QPL,,,,Koninklijke Nederlandse Cricket Bond,
+19,2025,71374,Topklasse,TK,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18
+19,2025,71378,Topklasse Twenty20,TK T20,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|7
+19,2025,71399,Training Grade,TG,,,,Koninklijke Nederlandse Cricket Bond,
+19,2025,73940,Tweede Klasse,2e Klasse,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|7|8|9|10|11|12|13|14
+19,2025,75916,U11 HB,U11 HB,,,,Koninklijke Nederlandse Cricket Bond,
+19,2025,90325,U11 Indoor,U11-Indoor,,,,Koninklijke Nederlandse Cricket Bond,
+19,2025,75914,U13,U13,,,,Koninklijke Nederlandse Cricket Bond,
+19,2025,90326,U13 Indoor,U13-Indoor,,,,Koninklijke Nederlandse Cricket Bond,
+19,2025,75913,U15,U15,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|7|8|9|10
+19,2025,75943,U17,U17,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|7|8|9|10
+19,2025,90327,U9 Indoor,U9-Indoor,,,,Koninklijke Nederlandse Cricket Bond,
+19,2025,88968,VRA Friendlies,VRA-F,,,,Koninklijke Nederlandse Cricket Bond,
+19,2025,73942,Vierde Klasse,4e Klasse,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18
+19,2025,82351,Vrouwen Hoofdklasse,VHK,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6
+19,2025,84859,Vrouwen Slotdag T10,VST10,,,,Koninklijke Nederlandse Cricket Bond,
+19,2025,75993,Vrouwen T20,VT20,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|7|8|9
+19,2025,82349,Vrouwen Topklasse,VTK,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6
+19,2025,89663,Wanderers CC Friendlies,WAN-F,,,,Koninklijke Nederlandse Cricket Bond,
+19,2025,88310,Youth Qui Vive Premier league U13,YQPL U13,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|GF
+19,2025,92865,Youth Qui Vive Premier league U16,YQPL U16,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|QF|GF
+19,2025,73943,Zami,Zami,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|7|8|9|10|11|12|13|14
+19,2025,73944,Zomi,Zomi,,,,Koninklijke Nederlandse Cricket Bond,1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16
