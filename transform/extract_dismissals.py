@@ -9,7 +9,7 @@ scorecards_folder = "../data/scorecards"
 output_folder = "../data/dismissals"
 os.makedirs(output_folder, exist_ok=True)
 
-output_file = f"{output_folder}/dismissals_2024.csv"
+output_file = f"{output_folder}/dismissals.csv"
 
 # --- Helper Function ---
 def extract_dismissals_from_scorecard(scorecard, match_id):
